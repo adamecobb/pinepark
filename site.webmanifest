@@ -1,0 +1,25 @@
+{
+  "name": "Pine Park Edmonds",
+  "short_name": "Pine Park",
+  "icons": [
+    {
+      "src": "favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#16232B",
+  "background_color": "#EFEDE7",
+  "display": "standalone",
+  "start_url": "./"
+}
